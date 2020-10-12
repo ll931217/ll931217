@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**ll931217/ll931217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> My name is Liang-Shih Lin (林良士), but call me **Liang**
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on ChroniBuild, Plumbr, and Donor(Not quite official yet)
+- 🌱 I’m currently learning Flutter
+- 📫 How to reach me: [email](mailto:liangshihlin@gmail.com)
+- 🔥 Programming Languages: **JavaScript**, **Python**, **Java**
+- 💬 Human Languages: English (Fluent), Chinese(Spoken), Afrikaans(Broken)
+- 💙 Hobbies: Singing, gaming, coding, cycling, gymming, calisthenics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⭐ GitHub Stats
+[![Liang's github stats](https://github-readme-stats.vercel.app/api?username=ll931217&count_private=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ll931217)](https://github.com/anuraghazra/github-readme-stats)
+
+### Week Stats
+[![ll931217's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ll931217)](https://github.com/anuraghazra/github-readme-stats)
