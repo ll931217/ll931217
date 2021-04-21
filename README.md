@@ -2,11 +2,11 @@
 
 > My name is Liang-Shih Lin (林良士), but call me **Liang**
 
-- 🔭 I’m currently working on [ChroniBuild](https://github.com/ll931217/ChroniBuild), Plumbr, and Donor(Not quite official yet)
-- 🌱 I’m currently learning [NativeScript-Vue](https://nativescript-vue.org/)
+- 🔭 I’m currently working on [ChroniBuild](https://github.com/ll931217/ChroniBuild), Plumbr, and SeeMo
+- 🌱 I’m currently learning [Flutter](https://flutter.dev/)
 - 📫 How to reach me: [email](mailto:liangshihlin@gmail.com)
 - 🔥 Programming Languages: **JavaScript**, **Python**, **Java**
-- 💬 Human Languages: English (Fluent), Chinese(Spoken), Afrikaans(Broken)
+- 💬 Human Languages: English (Fluent), Chinese(Spoken)
 - 💙 Hobbies: Singing, gaming, coding, cycling, gymming, calisthenics.
 
 ### ⭐ GitHub Stats
