@@ -1,19 +1,77 @@
-### Hi there 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-> My name is Liang-Shih Lin (林良士), but call me **Liang**
+###
 
-- 🔭 I’m currently working on [ChroniBuild](https://github.com/ll931217/ChroniBuild), Plumbr, and SeeMo
-- 🌱 I’m currently learning [Flutter](https://flutter.dev/)
-- 📫 How to reach me: [email](mailto:liangshihlin@gmail.com)
-- 🔥 Programming Languages: **JavaScript**, **Python**, **Java**
-- 💬 Human Languages: English (Fluent), Chinese(Spoken)
-- 💙 Hobbies: Singing, gaming, coding, cycling, gymming, calisthenics.
+<p align="left">My name is Liang-Shih Lin, but call me Liang, I'm a full-stack web developer who is driven by challenge, based in Taiwan.</p>
 
-### ⭐ GitHub Stats
-[![Liang's github stats](https://github-readme-stats.vercel.app/api?username=ll931217&count_private=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+###
 
-### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ll931217)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="left">About me</h2>
 
-### Week Stats
-[![ll931217's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ll931217)](https://github.com/anuraghazra/github-readme-stats)
+###
+
+<p align="left">✨ Creating bugs since 1993<br>📚 I'm currently learning AI Agent, RAG, Fine-tuning AI models<br>🎯 Goals: Just enjoy my time creating challenging products.<br>🎲 Fun fact: Proudly made in South Africa</p>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ll931217/ll931217/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ll931217&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ll931217&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ll931217/count.svg?"  />
+</div>
+
+###
