@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 1993<br>📚 I'm currently learning AI Agent, RAG, Fine-tuning AI models<br>🎯 Goals: Just enjoy my time creating challenging products.<br>🎲 Fun fact: Proudly made in South Africa</p>
+<p align="left">✨ Creating bugs since 1993<br>📚 I'm currently learning AI Agent, RAG, Fine-tuning AI models<br>🎯 Goals: Just enjoy my time creating challenging products.<br>🎲 Fun fact: Proudly made in South Africa.<br>Hobbies: Home lab, learning new skills, coding, gaming, working out.</p>
 
 ###
 
